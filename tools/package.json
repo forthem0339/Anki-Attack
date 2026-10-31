@@ -1,0 +1,13 @@
+{
+  "name": "kotoba-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Alat bantu pengembangan (bukan bagian dari APK): analisis, pemecahan, dan verifikasi index.html",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "dependencies": {
+    "acorn": "^8.19.0",
+    "eslint-scope": "^9.1.2",
+    "puppeteer-core": "^25.16.0"
+  }
+}
